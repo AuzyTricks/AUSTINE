@@ -1,0 +1,64 @@
+
+
+    
+
+
+.side-bar{
+    width: 150px;
+    height: 100vh;
+    text-align: center;
+    background-color: rgb(37, 36, 36);
+
+    
+    
+    
+
+
+}
+
+.img img{
+    object-fit: cover;
+    border-top-left-radius: 10px ;
+    width: 150px;
+    height: 150px;
+    opacity: 0.3;
+    
+}
+
+a{
+    color: white;
+    font-size: xx-large;
+    margin-top: 50px;
+    padding-top: 40px;
+    
+}
+
+main{
+display: flex;
+    background-color: black;
+    color: white;
+}
+
+.main-content{
+    background-image: url(/imjohndoe.png);
+    background-position: center;
+    background-size: 150vh;
+    background-repeat: no-repeat;
+    width: 80%;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 0;
+    margin-top: 5px;
+    
+
+}
+
+a.hover{
+ background-color: black
+}
+
+
+
